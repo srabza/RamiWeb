@@ -1,0 +1,78 @@
+/* hay kermel ta3mel ur background image full screen w hek */
+html { 
+    background: url(maksym-kaharlytskyi-kDVaFjoQf4M-unsplash.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+ 
+.navbar {
+    font-size: larger;
+    height: 100%;
+    width: 400px;
+    position:fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color:#242829 ;
+   
+    overflow-x: hidden;
+    padding-top: 4px;
+    border-left: black;
+    border-left-style: groove;
+    border-top-left-radius: 15px;
+    
+}
+
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 50px;
+    color: white;
+    padding-left: 0%;
+    
+}
+
+
+.rami {
+    font-size: 42px;
+    font-style:italic;
+}
+
+a{
+    color: rgb(184, 247, 247);
+    
+}
+
+.primary-nav {
+    justify-content: center;
+}
+
+.second-nav {
+    line-height: 155px;
+}
+
+.container :visited {
+    color: rgb(184, 247, 247);
+    
+}
+
+.container :hover {
+    color: lightseagreen;
+}
+
+.container :active {
+    color: lightsteelblue;
+}
+
+
+.hero-img {
+    width: 100%;
+    
+    margin-top: 2me;
+
+}
+
