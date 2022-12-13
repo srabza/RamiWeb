@@ -1,3 +1,5 @@
+
+
 /* hay kermel ta3mel ur background image full screen w hek */
 html { 
     background: url(maksym-kaharlytskyi-kDVaFjoQf4M-unsplash.jpg) no-repeat center center fixed; 
@@ -11,7 +13,7 @@ html {
 .navbar {
     font-size: larger;
     height: 100%;
-    width: 400px;
+    max-width: 768px ;
     position:fixed;
     z-index: 1;
     top: 0;
@@ -70,7 +72,7 @@ a{
 
 
 .hero-img {
-    width: 100%;
+    max-width: 100%;
     
     margin-top: 2me;
 
