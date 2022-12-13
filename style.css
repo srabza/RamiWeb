@@ -13,7 +13,7 @@ html {
 .navbar {
     font-size: larger;
     height: 100%;
-    max-width: 768px ;
+    max-width: 375px ;
     position:fixed;
     z-index: 1;
     top: 0;
